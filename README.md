@@ -1,29 +1,44 @@
-## Hi there 👋
+## Hi there 👋 I'm Jorge Salinas
+  <samp>
+    <p align="start">
+      <a href="https://www.linkedin.com/in/jorgeenriquesalinasbarrera/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:jorgesalinas7140@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.instagram.com/jorgesalinas07/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+573166250535" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://x.com/jorgesalinas33" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  </samp>
 
-<!--
-**jorgesalinas07/jorgesalinas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+      <br/>
+            <p align="center">
+        <a href="https://github.com/jorgesalinas07/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgesalinas07&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="jorgesalinas07 :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/jorgesalinas07/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgesalinas07&theme=gruvbox&layout=compact&hide_border=true"
+          alt="jorgesalinas07 :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jorgesalinas07&theme=gruvbox&layout=compact&hide_border=true"
+          alt="jorgesalinas07:: Top Langs by commit" />
+          </a>
+        </p>
+  </samp>
+  </div>
+</details>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/jorgeenriquesalinasbarrera/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/jorgesalinas33" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/jorgesalinas07/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  
-</p>
