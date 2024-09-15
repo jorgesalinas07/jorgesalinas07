@@ -21,9 +21,9 @@
 
 <br/>
 
-👨‍💻 &nbsp; I Currently work at Ioet Inc as a Software Developer.<br/>
-🎓 &nbsp; I'm a Mechanical Engineer passioned about software development.<br/>
-:closed_lock_with_key: I've built AWS architecture for security-challenging projects like bank-related applications. <br/>
+- 👨‍💻 &nbsp; I Currently work at Ioet Inc as a Software Developer.<br/>
+- 🎓 &nbsp; I'm a Mechanical Engineer passioned about software development.<br/>
+- :closed_lock_with_key: I've built AWS architecture for security-challenging projects like bank-related applications. <br/>
 
 ### 👨‍💻 Programming Languages
 <p align="start">
