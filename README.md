@@ -19,6 +19,40 @@
     </p>
   </samp>
 
+<br/>
+
+👨‍💻 &nbsp; I Currently work at Ioet Inc as a Software Developer.<br/>
+🎓 &nbsp; I'm a Mechanical Engineer passioned about software development.<br/>
+:closed_lock_with_key: I've built AWS architecture for security-challenging projects like bank-related applications. <br/>
+
+### 👨‍💻 Programming Languages
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,js,ts,dart,linux" />
+  </a>
+</p>
+
+### 🧰 Frameworks and Libraries
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nextjs,flutter" />
+  </a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,dynamodb,firebase,aws,terraform" />
+  </a>
+</p>
+
+### 💻 Software and Tools
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,graphql,git,github" />
+  </a>
+</p>
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
